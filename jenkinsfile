@@ -21,6 +21,7 @@ pipeline {
                 '''
             }
         }
+<<<<<<< HEAD
 
         stage('Test'){
             agent{
@@ -37,5 +38,7 @@ pipeline {
                 '''
             }
         }
+=======
+>>>>>>> 433f357427832f1d9780fdb719beacf41907d080
     }
 }
